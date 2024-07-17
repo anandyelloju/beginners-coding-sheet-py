@@ -7,3 +7,4 @@
 5) Write a Program to Find Size of int, float, double and char in your computer
 6) Write a Program to Swap Two Numbers
 7) Write a Program to Find ASCII Value of a Character
+8) Write a Program to Multiply two decimal Numbers entered by User
