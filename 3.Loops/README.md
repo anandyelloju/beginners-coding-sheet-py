@@ -12,3 +12,4 @@ Fibonacci Series: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89,
 7) Write a Program to Find LCM of two numbers entered by user
 8) Write a Program to Multiply two decimal Numbers entered by User
 9) Write a Program to display sum of all digits of a given Number N by user
+10) Write a Program to Calculate Power of a Number using inbuilt pow() function by taking two inputs from users as Base and exponent respectively
