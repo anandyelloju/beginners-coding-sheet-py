@@ -16,3 +16,4 @@ Fibonacci Series: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89,
 11) Write a Program to Calculate Power of a Number without using inbuilt pow() function by taking two inputs from users as Base and exponent respectively
 12) Write a Program to Check Whether a Number N entered by user is Palindrome or Not
 13) Write a Program to Check Whether a Number is Prime or Not
+14) Write a Program to Display Prime Numbers Between Two Intervals (entered by user) Example: Enter two numbers: 0 20 Prime numbers between 0 and 20 are: 2 3 5 7 11 13 17 19
