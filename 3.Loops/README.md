@@ -17,3 +17,4 @@ Fibonacci Series: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89,
 12) Write a Program to Check Whether a Number N entered by user is Palindrome or Not
 13) Write a Program to Check Whether a Number is Prime or Not
 14) Write a Program to Display Prime Numbers Between Two Intervals (entered by user) Example: Enter two numbers: 0 20 Prime numbers between 0 and 20 are: 2 3 5 7 11 13 17 19
+15) Write a Program to check whether a number entered by the user is an Armstrong number or not.
