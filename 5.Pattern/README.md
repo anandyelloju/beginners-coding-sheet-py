@@ -8,3 +8,9 @@ Print the below Pattern using loops
 * * * * *
 * * * * *
 ```
+2) Hollow Rectangular star
+```
+* * * * *
+*       *
+* * * * *
+```
