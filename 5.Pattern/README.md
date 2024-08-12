@@ -14,3 +14,11 @@ Print the below Pattern using loops
 *       *
 * * * * *
 ```
+3) Half Pyramid Star Pattern
+```
+*
+* *
+* * *
+* * * *
+* * * * *
+```
