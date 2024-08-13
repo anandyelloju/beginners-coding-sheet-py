@@ -22,3 +22,12 @@ Print the below Pattern using loops
 * * * *
 * * * * *
 ```
+4) Inverted Half pyramid
+```
+* * * * * *
+* * * * *
+* * * *
+* * *
+* *
+*
+```
