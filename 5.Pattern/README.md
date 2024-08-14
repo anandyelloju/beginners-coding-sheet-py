@@ -31,3 +31,12 @@ Print the below Pattern using loops
 * *
 *
 ```
+5) Full Pyramid Star Pattern
+```
+      *
+     * *
+    * * *
+   * * * *
+  * * * * *
+ * * * * * *
+```
