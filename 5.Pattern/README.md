@@ -33,10 +33,19 @@ Print the below Pattern using loops
 ```
 5) Full Pyramid Star Pattern
 ```
-      *
-     * *
-    * * *
-   * * * *
-  * * * * *
- * * * * * *
+     *
+    * *
+   * * *
+  * * * *
+ * * * * *
+* * * * * *
+```
+6) Inverted Full pyramid
+```
+* * * * * *
+ * * * * *
+  * * * *
+   * * *
+    * *
+     *
 ```
