@@ -49,3 +49,11 @@ Print the below Pattern using loops
     * *
      *
 ```
+7) Hollow Full Pyramid Star
+```
+        *
+      * *
+    *   *
+  *     *
+*********
+```
