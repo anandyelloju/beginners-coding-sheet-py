@@ -57,3 +57,11 @@ Print the below Pattern using loops
   *     *
 *********
 ```
+8) Half pyramid using numbers
+```
+1
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5
+```
