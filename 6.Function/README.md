@@ -11,3 +11,4 @@ OUTPUT:
 34 = 11 + 23
 34 = 17 + 17
 ```
+3) Write a Program to Convert Binary Number to Decimal manually by creating user-defined functions.
