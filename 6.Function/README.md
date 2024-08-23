@@ -12,3 +12,4 @@ OUTPUT:
 34 = 17 + 17
 ```
 3) Write a Program to Convert Binary Number to Decimal manually by creating user-defined functions.
+4) Write a Program to Convert Decimal to Binary number manually by creating user-defined functions.
