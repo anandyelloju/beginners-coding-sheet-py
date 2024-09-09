@@ -4,3 +4,4 @@
 2) Write a Program that takes n element from user and displays the largest element of an array
 3) Write a Program that calculates the standard deviation of 10 data using arrays
 4) Write a Program that takes the array of five element and the elements of that array are accessed using pointer
+5) Write a Program that adds two matrices using Multidimensional Arrays where the number of rows r and columns c is entered by user (Value of r and c < 100)
