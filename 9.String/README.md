@@ -5,3 +5,9 @@
 3) Write a Program to Remove all Characters in a String Except Alphabets.
 4) Write a Program to Find the Length of a String entered by user
 5) Write a Program to Concatenate (join) Two Strings entered by user
+6) Write a python program to change every letter in a given string with the letter following it in the alphabet (ie. a becomes b, p becomes q, z becomes a).
+```
+Example:
+  Sample Input: Abcdef3
+  Sample Output: Bcdefg3
+```
