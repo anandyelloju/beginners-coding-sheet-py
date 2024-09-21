@@ -11,3 +11,4 @@ Example:
   Sample Input: Abcdef3
   Sample Output: Bcdefg3
 ```
+7) Write a Python program to check if a given string is a Palindrome or not.
