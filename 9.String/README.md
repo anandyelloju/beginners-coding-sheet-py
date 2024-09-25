@@ -12,3 +12,9 @@ Example:
   Sample Output: Bcdefg3
 ```
 7) Write a Python program to check if a given string is a Palindrome or not.
+8) Write a Python program to count all the words in a given string. Words must be separated by only one space.
+```
+ Example:
+ Sample Input: Siddharth Singh
+ Sample Output: number of words -> 2
+```
