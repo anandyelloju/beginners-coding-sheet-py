@@ -7,7 +7,7 @@
 5) Write a Program to Concatenate (join) Two Strings entered by user
 6) Write a python program to change every letter in a given string with the letter following it in the alphabet (ie. a becomes b, p becomes q, z becomes a).
 ```
-Example:
+ Example:
   Sample Input: Abcdef3
   Sample Output: Bcdefg3
 ```
@@ -15,6 +15,12 @@ Example:
 8) Write a Python program to count all the words in a given string. Words must be separated by only one space.
 ```
  Example:
- Sample Input: Siddharth Singh
- Sample Output: number of words -> 2
+  Sample Input: Siddharth Singh
+  Sample Output: number of words -> 2
+```
+9) Write a Python program to capitalize the first letter of each word of a given string. Words must be separated by only one space
+```
+ Example:
+  Sample Input: cpp string exercises
+  Sample Output: Cpp String Exercises
 ```
